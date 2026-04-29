@@ -1,3 +1,21 @@
+#    Tecnológico Nacional de México
+#   Instituto Tecnológico de Tijuana
+#        Subdirección Académica
+# Departamento de Sistemas y Computación
+##  Ingeniería en Sistemas Computacionales
+##        LENGUAJES DE INTERFAZ
+##   Profesor: MC. René Solis Reyes
+##     Semestre febrero - junio 2026
+----
+# Practica Bloque: 4.5 📌 Codex + Wokwi para simular practicas Raspberry PicoW
+# Objetivo:  USO DE CODEX
+----
+
+# 📝 Vazquez Muñoz, Briana Daniela y 23212083
+
+
+-----
+
 # Pico W Keypad + 12 LED Controller
 
 Documentation-first repository for a **Raspberry Pi Pico W (RP2040)** project that reads a **4x4 membrane keypad** and controls **12 LEDs**.
